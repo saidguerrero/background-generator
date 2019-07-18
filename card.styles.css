@@ -13,7 +13,8 @@
 }
 
 .card-container:hover {
-  transform: scale(1.05);
+  transform: scale(200);
+  display : auto;
 }
 
 .prueba {
